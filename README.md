@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align="center">
+  <img alt="Logo" src="https://github.com/kushrike/kushrike/blob/main/nowyouseeme.png" width="500">
+</div>
 <!--
 **kushrike/kushrike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
